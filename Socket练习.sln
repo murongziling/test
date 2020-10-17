@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhpilySever", "Ahpily\Ahpil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{80F42633-62CB-45D5-A243-07914D540A02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{B8C2A628-983B-4B16-AA88-C3AE5CCFED63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{80F42633-62CB-45D5-A243-07914D540A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F42633-62CB-45D5-A243-07914D540A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F42633-62CB-45D5-A243-07914D540A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C2A628-983B-4B16-AA88-C3AE5CCFED63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C2A628-983B-4B16-AA88-C3AE5CCFED63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C2A628-983B-4B16-AA88-C3AE5CCFED63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C2A628-983B-4B16-AA88-C3AE5CCFED63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

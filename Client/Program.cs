@@ -16,7 +16,7 @@ namespace Client
         static void Main(string[] args)
         {
             clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            IPEndPoint remoteEP = new IPEndPoint(IPAddress.Parse("10.201.34.174"), 9999);
+            IPEndPoint remoteEP = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9999);
             clientSocket.Connect(remoteEP);
             Console.WriteLine("连接到远程服务器");
        
