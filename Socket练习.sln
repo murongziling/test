@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhpilySever", "Ahpily\Ahpil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{80F42633-62CB-45D5-A243-07914D540A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CA7A1413-EF58-407D-9BB2-0B97FC2F35B1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{80F42633-62CB-45D5-A243-07914D540A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F42633-62CB-45D5-A243-07914D540A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F42633-62CB-45D5-A243-07914D540A02}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA7A1413-EF58-407D-9BB2-0B97FC2F35B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA7A1413-EF58-407D-9BB2-0B97FC2F35B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA7A1413-EF58-407D-9BB2-0B97FC2F35B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA7A1413-EF58-407D-9BB2-0B97FC2F35B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
